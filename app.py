@@ -4,7 +4,7 @@ import google.generativeai as genai
 import math
 
 # Configure Google Gemini API
-GEMINI_API_KEY = "AIzaSyDfFj3gMd7paw5qrRFL1hcSevbQjSSVweI"
+GEMINI_API_KEY = "your-api-key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Load Excel data
