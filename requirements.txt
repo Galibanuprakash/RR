@@ -1,4 +1,6 @@
 streamlit
 pandas
+bcrypt
+google-generativeai
 openpyxl
-google.generativeai
+
